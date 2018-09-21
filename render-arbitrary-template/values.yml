@@ -1,0 +1,5 @@
+clusterName: "test.local"
+maxNodes: 10
+nodeNames:
+- Node 1
+- Node 2
